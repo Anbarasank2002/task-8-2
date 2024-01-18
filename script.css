@@ -1,0 +1,16 @@
+.row {
+  position: relative;
+  left: 10px;
+}
+th {
+  padding-left: 20px;
+}
+td {
+  padding: 29px;
+}
+th {
+  padding-left: 29px;
+}
+body {
+  background-color: #e5ece9;
+}
